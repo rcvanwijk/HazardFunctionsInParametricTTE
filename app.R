@@ -5,7 +5,8 @@
 # Date: March 11th, 2022                                                              #
 #                                                                                     #
 # Reference: Rob C van Wijk, Ulrika S H Simonsson, Finding the right hazard function  #
-#           for time to event modelling: a tutorial and Shiny app (2022, manuscript   #
+#           for time to event modeling: a tutorial and Shiny app (CPT Pharmacometrics #
+#           Syst Pharmacol. 2022; https://doi.org/10.1002/psp4.12797                  #
 #           under review)                                                             #
 #                                                                                     #
 # R version 4.0.4 (2021-02-15)                                                        #
